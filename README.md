@@ -41,11 +41,5 @@ To run the main script, execute the following command in your terminal:
 python main.py
 ```
 
-## Contributing
-
-Due to the proprietary nature of the data and the proximity analysis portion of the project, contributions in these areas are not possible. However, if you have suggestions for improving the code or methodology, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for more information.
-```
+## Final Thoughts
+This is mostly to showcase some of my techincal capabilities to job applicants, but feel free to clone and use this if it is at all helpful to anyone mapping locations. Other than the data, the rest of the notebook should work as long as the data is formatted properly.
